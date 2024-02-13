@@ -35,7 +35,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Twitch","Listening to Spotify","Playing DBD"];
+const statusMessages = ["/comfort is best srvr!","teenybeanieweenie.ttv","watching over all of you"];
 
 
 let currentIndex = 0;
