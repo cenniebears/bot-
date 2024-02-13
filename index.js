@@ -5,9 +5,8 @@
  ██╔══██╗░░░██║░░░░██╔██╗░          
  ██║░░██║░░░██║░░░██╔╝╚██╗          
  ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
-  GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
-  DISCORD SERVER : https://discord.gg/FUEHs7RCqz
-  YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+  GIT : https://github.com/cenniebears/bot-.git
+  DISCORD SERVER : https://discord.gg/comfort
  * **********************************************
  *   Code by RTX GAMING
  * **********************************************
@@ -36,7 +35,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Netflix","Listening to Spotify","Playing GTA VI"];
+const statusMessages = ["Watching Twitch","Listening to Spotify","Playing DBD"];
 
 
 let currentIndex = 0;
